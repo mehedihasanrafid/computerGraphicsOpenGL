@@ -157,32 +157,10 @@ FreeGLUT installation layouts differ. When CMake cannot locate GLUT, provide its
 
 ## Original yacht preservation
 
-The yacht renderer in `src/Yacht.cpp` is derived from the original team project rather than from the replacement yacht used in the first reconstruction. The preserved visual components include:
 
-- dark-blue polygonal hull and original outline;
-- purple first floor and metallic/cyan deck layers;
-- black window strip, circular portholes, and red outlines;
-- second and third floors with the original window geometry;
-- rudder/control structure and blue decorations;
-- railings and antenna platform;
-- animated Bangladesh flag using the original cubic Bézier control-point layout.
 
-Only the surrounding application structure, animation timing, input system, resizing, build system, and documentation were modernized.
 
 ## Major reconstruction improvements
-
-The portfolio version intentionally addresses structural and behavioral weaknesses commonly found in the original monolithic implementation:
-
-- one callback registration per event type;
-- no conflict between move-right and daytime controls;
-- consistent `GLUT_DOUBLE` rendering;
-- one centralized update loop instead of overlapping animation timers;
-- bounded movement speed;
-- modular scene and object rendering;
-- platform-specific sound isolated from graphics code;
-- correct viewport and mouse mapping after resize;
-- generated IDE metadata excluded from version control;
-- build automation, CI, documentation, and explicit attribution.
 
 ## Documentation
 
@@ -197,4 +175,4 @@ The portfolio version intentionally addresses structural and behavioral weakness
 
 ## License
 
-No open-source license is currently granted. Add one only after the relevant collaborators agree on reuse and distribution terms.
+
