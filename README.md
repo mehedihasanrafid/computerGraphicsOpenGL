@@ -4,7 +4,15 @@ A portfolio-ready reconstruction of a collaborative university computer graphics
 
 > **Attribution:** The original course project was collaborative and was hosted at [Shihab-Abesh/Computer-graphics](https://github.com/Shihab-Abesh/Computer-graphics). This repository is maintained by [Mehedi Hasan Rafid](https://github.com/mehedihasanrafid) as a modular, documented portfolio reconstruction. See [`NOTICE.md`](NOTICE.md) and [`docs/CONTRIBUTIONS.md`](docs/CONTRIBUTIONS.md).
 
-![Yacht Journey Preview](assets/preview.png)
+### 📸 Application Screenshots
+
+| **Beach Escape (Day)** | **Beach Escape (Night)** |
+|:---:|:---:|
+| ![Beach Escape Day](assets/screenshots/beach_escape_day.png) | ![Beach Escape Night](assets/screenshots/beach_escape_night.png) |
+
+| **Coastal City (Night)** | **Cargo Harbor (Night)** |
+|:---:|:---:|
+| ![Coastal City Night](assets/screenshots/coastal_city_night.png) | ![Cargo Harbor Night](assets/screenshots/cargo_harbor_night.png) |
 
 
 ## Highlights
