@@ -195,10 +195,6 @@ The portfolio version intentionally addresses structural and behavioral weakness
 - [Validation checklist](docs/VALIDATION.md)
 - [Changelog](CHANGELOG.md)
 
-## Portfolio use
-
-Use the CV wording in [`docs/CV_ENTRY.md`](docs/CV_ENTRY.md). Record your exact original team contribution in [`docs/CONTRIBUTIONS.md`](docs/CONTRIBUTIONS.md) before claiming responsibility for a particular original scene or component.
-
 ## License
 
 No open-source license is currently granted. Add one only after the relevant collaborators agree on reuse and distribution terms.
